@@ -37,5 +37,5 @@ Marca tus Pokémon favoritos y accede fácilmente a ellos en la pantalla de Favo
 
 ¡Diviértete jugando "Who's the Pokemon" y conviértete en el mejor entrenador Pokémon! Si tienes alguna pregunta o problema, no dudes en contactarnos.
 
-**Desarrollado por: Tu Nombre**
+**Desarrollado por: Adriana Ruiz**
 
