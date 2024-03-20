@@ -4,6 +4,7 @@
 
 Bienvenidx a "Who's the Pokemon", una aplicación de juego emocionante donde podrás poner a prueba tus conocimientos sobre los Pokémon y disfrutar de la diversión de que una IA adivine quién es ese Pokémon misterioso. Implementando inteligencia artificial mediante un árbol de decisión binario que adivina tu pokemon.
 
+![Video](AppImages/WhosThePokemonAppVideo.mp4)
 ## Características
 
 ### 1. Lista de Pokémon
